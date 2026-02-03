@@ -1,1 +1,0 @@
-# internet-usage-sql-project
